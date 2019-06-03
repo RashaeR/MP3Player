@@ -1,0 +1,22 @@
+1,1,Prince,When Doves Cry,Pop
+1,2,Van Halen,Jump,Rock
+1,3,Run DMC,My Addidas,Rap
+1,4,Lakeside,Fantastic Voyage,R&B
+1,5,Madonna,Material Girl,Pop
+1,6,Duran Duran,Hungry Like a Wolf,Pop
+1,7,Skyy,Call Me,R&B
+1,8,Carl Carlton,Bad Mama Jama,R&B
+1,9,Def Leppard,Rock of Ages,Rock
+1,10,Journey,Don't Stop Believin,Rock
+1,11,Michael Jackson,Beat It,Pop
+1,12,Kurtis Blow,The Breaks,Rap
+1,13,Sugar Hill Gang,Apache,Rap
+1,14,LL Cool J,My Radio,Rap
+1,15,Ozzy Osbourne,Bark At the Moon,Rock
+1,16,Michael Jackson, Billie Jean,Pop
+1,17,Prince,Let's Go Crazy,Pop
+1,18,Andrew Lloyd Webber,Memories,Show
+2,Rock On!,9,10,15,2
+2,Soulful,4,7,1,16
+2,Pop Tart,5,2,8,11,16
+2,Rappin,3,12,14,13
